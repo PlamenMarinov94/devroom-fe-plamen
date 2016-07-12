@@ -1,0 +1,31 @@
+body
+{
+	background:#002080;
+	height:100%;
+}
+html
+{
+	height:1800px;
+}
+
+
+img.SearchIcon
+{	padding-right:5px;
+	height:13px;
+	width:13px;
+}
+
+div.FirstButtons          /*Home butoni about,services,blog i t.n*/
+{	
+	float:right;
+	margin-top:40px;
+}
+div.SecondButtons_Text
+{	
+	float:right;
+	width:600px;
+    height: 100px;
+	margin-right:50px;
+
+}
+

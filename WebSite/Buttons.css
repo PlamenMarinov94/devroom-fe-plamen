@@ -1,0 +1,60 @@
+
+button.HomeButtons {
+    background-color: Transparent; 
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+	font-family: Arial Black;
+    margin: 4px 2px;
+    cursor: pointer;
+	border:none;
+	outline:none;
+}
+button.HomeButtons:hover
+{
+	background-color:#ffffff;
+	color: #000000;
+}
+input.SearchEngine
+{
+	border:none;
+	outline:none;
+	background-color:Transparent;
+	font-family:Arial Black;
+	
+}
+input.SearchEngine:hover
+{
+	background-color:#ffffff;
+	color:#000000;
+	transition-duration:1s;
+}
+
+button.RoundButtons {
+    background-color:Transparent; 
+    color: white;
+	border-radius:3px;
+	border:solid 2px #ffffff;
+    padding: 12px 14px;
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+	font-family: Arial Black;
+    margin:10px 10px;
+	margin-left:0px;
+    cursor: pointer;
+	outline:none;
+	margin-top:45px;
+}
+button.RoundButtons:hover
+{
+	background-color:#4da6ff;
+	border-color:#4da6ff;
+	color:#ffffff;
+	transition-duration:0.4s;
+	
+}
+
+
